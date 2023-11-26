@@ -44,7 +44,7 @@ pip install telethon
 
 # Usage
 
-First, you need to open <code>tgparse.py</code>, change <code>api_id</code>, <code>api_hash</code> and <code>phone</code> variables and after that save the file:
+First, you need to open <code>tgparse.py</code>, change <code>api_id</code>, <code>api_hash</code> and <code>phone</code> variables and after that save the file. API ID and API hash you can take from https://my.telegram.org/apps <i>(optionally, you can change the App name and Short name to TGParse. Then you will be more comfortable)</i>
 
 <p>
   <img src='tgparse1.png'>
