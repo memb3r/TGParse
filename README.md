@@ -1,5 +1,5 @@
 <h1 align="center">
-  TGParse
+  TGParse - Open Source Telegram chat parser.
 </h1>
 
 <p align="center">
