@@ -1,4 +1,3 @@
-# pip install telethon
 from telethon.sync import TelegramClient
 import csv
 from telethon.tl.functions.messages import GetDialogsRequest
